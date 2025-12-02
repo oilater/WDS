@@ -89,5 +89,3 @@ export const semantic = createGlobalTheme(':root', {
     label: palette.coolNeutral[99],
   },
 });
-
-export type Semantic = typeof semantic;

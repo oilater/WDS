@@ -219,6 +219,3 @@ export const palette = {
     100: '#FFFFFF',
   },
 } as const;
-
-export type Palette = typeof palette;
-export type PaletteGroup = keyof Palette;
